@@ -1,6 +1,6 @@
 # METRICIO - React Native Version
 
-**[Metricio](https://metricio.co/)** (MIT License)  is a dashboard framework that helps you display metrics and monitor systems and APIs. GitHub Repository is available [here](https://github.com/metricio/metricio)
+**[METRICIO](https://metricio.co/)** (MIT License)  is a dashboard framework that helps you display metrics and monitor systems and APIs. GitHub Repository is available [here](https://github.com/metricio/metricio)
 
 **Disclaimer** : I am not the developer of Metricio (or Dashing) framework. I simply ported Metricio React Widgets on iOS device/simulator. Tested on iPhone X Simulator. 
 
