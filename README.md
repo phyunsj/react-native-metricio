@@ -1,6 +1,6 @@
 # METRICIO - React Native Version
 
-React Framework is available here https://github.com/metricio/metricio
+**[Metricio](https://metricio.co/)** is a dashboard framework that helps you display metrics and monitor systems and APIs. React Framework is available [here](https://github.com/metricio/metricio) (MIT License) 
 
 ## In Action
 
